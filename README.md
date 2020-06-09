@@ -1,5 +1,6 @@
 # 2020PoliceBrutalityApk
 Current version: 1.1
+
 Last Updated: 6/7/20
 
 This is where I will keep the most recent version of my Police Brutality 2020 app.
